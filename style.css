@@ -75,6 +75,10 @@ h2 {
   font-size: 0.875rem;
   text-align: left;
 }
+.accordion_quetion:hover {
+  cursor: pointer;
+  color: var(--text-red);
+}
 .accordion_quetion.open {
   font-weight: 700;
 }
